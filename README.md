@@ -1,3 +1,0 @@
-# TO-DOLIST
-HEY!
-YOU CAN VISIT http://testing.allforbooks.co.in/ TO SEE WORKING CONDITION OF MY CODE
